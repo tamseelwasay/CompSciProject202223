@@ -23,9 +23,9 @@ To get started, follow these steps:
 
 4. In the Google Colab dashboard, click on "File" and select "Upload notebook".
 
-5. Upload the "FakeNewsDetectionModelTwitter15DatasetConfliBERTSVMLRFinal.ipynb" OR FakeNewsDetectionModelTwitter16DatasetConfliBERTSVMLRFinal.ipynb file from this repository.
+5. Upload the "FakeNewsDetectionModelCURRENTMODEL.ipynb" file from this repository.
 
-6. Open the "FakeNewsDetectionModelTwitter15DatasetConfliBERTSVMLRFinal.ipynb" notebook and follow the instructions to run the fake news detection model.
+6. Open the "FakeNewsDetectionModelCURRENTMODEL.ipynb" notebook and follow the instructions to run the fake news detection model.
 
 ## Usage
 
